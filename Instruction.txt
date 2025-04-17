@@ -1,0 +1,8 @@
+git clone "path"
+git status
+git add "file"
+git add --all
+git commit -m "name of commit"
+git push
+
+git pull
